@@ -1,1 +1,3 @@
-# Book-List Project to learn React and Redux
+### BookList
+
+Project to learn React and Redux.
